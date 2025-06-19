@@ -2,7 +2,7 @@ from turtle import distance
 import RPi.GPIO as GPIO
 import time
 
-
+#1
 class HC:
     def __init__(self):
         self.TRIGER = 21
